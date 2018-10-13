@@ -1,0 +1,7 @@
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\bin\Debug\Read_startup_events.dll
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\bin\Debug\Read_startup_events.pdb
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\bin\Debug\PCMonitorClient.dll
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\obj\Debug\Read_startup_events.ConfigurationForm.resources
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\obj\Debug\Read_startup_events.csproj.GenerateResource.Cache
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\obj\Debug\Read_startup_events.dll
+C:\Users\Pulseway\documents\visual studio 2015\Projects\Read_startup_events\Read_startup_events\obj\Debug\Read_startup_events.pdb
